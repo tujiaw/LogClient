@@ -1,0 +1,23 @@
+﻿生成启动时间为 2014/9/18 1:39:49。
+     1>项目“F:\QtProject\LogClient\LogClient.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>CustomBuild:
+         Moc'ing dialog.h...
+         Uic'ing dialog.ui...
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /IC:\Qt\Qt5.3.2\5.3\msvc2012_opengl\include /IC:\Qt\Qt5.3.2\5.3\msvc2012_opengl\include\QtWidgets /IC:\Qt\Qt5.3.2\5.3\msvc2012_opengl\include\QtNetwork /IC:\Qt\Qt5.3.2\5.3\msvc2012_opengl\include\QtGui /IC:\Qt\Qt5.3.2\5.3\msvc2012_opengl\include\QtCore /Idebug /I. /I"C:\Qt\Qt5.3.2\5.3\msvc2012_opengl\mkspecs\win32-msvc2012" /I.\GeneratedFiles /Zi /nologo /W3 /WX- /Od /Oy- /D _WINDOWS /D UNICODE /D WIN32 /D QT_WIDGETS_LIB /D QT_NETWORK_LIB /D QT_GUI_LIB /D QT_CORE_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"Win32\Debug\\" /Fd"Win32\Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt -Zm200 -w34100 -w34189 dialog.cpp GeneratedFiles\Debug\moc_dialog.cpp logclient.cpp main.cpp
+         dialog.cpp
+         moc_dialog.cpp
+         logclient.cpp
+         main.cpp
+         正在生成代码...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"debug\\LogClient.exe" /NOLOGO /LIBPATH:C:\Qt\Qt5.3.2\5.3\msvc2012_opengl\lib /LIBPATH:C:\Qt\Qt5.3.2\5.3\msvc2012_opengl\lib /LIBPATH:C:\Qt\Qt5.3.2\5.3\msvc2012_opengl\lib glu32.lib opengl32.lib gdi32.lib user32.lib C:\Qt\Qt5.3.2\5.3\msvc2012_opengl\lib\qtmaind.lib C:\Qt\Qt5.3.2\5.3\msvc2012_opengl\lib\Qt5Cored.lib C:\Qt\Qt5.3.2\5.3\msvc2012_opengl\lib\Qt5Widgetsd.lib C:\Qt\Qt5.3.2\5.3\msvc2012_opengl\lib\Qt5Networkd.lib C:\Qt\Qt5.3.2\5.3\msvc2012_opengl\lib\Qt5Guid.lib C:\Qt\Qt5.3.2\5.3\msvc2012_opengl\lib\Qt5Cored.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"debug\LogClient.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /MACHINE:X86 /SAFESEH "/MANIFESTDEPENDENCY:type='win32' name='Microsoft.Windows.Common-Controls' version='6.0.0.0' publicKeyToken='6595b64144ccf1df' language='*' processorArchitecture='*'" Win32\Debug\dialog.obj
+         Win32\Debug\moc_dialog.obj
+         Win32\Debug\logclient.obj
+         Win32\Debug\main.obj
+         LogClient.vcxproj -> F:\QtProject\LogClient\debug\LogClient.exe
+     1>已完成生成项目“F:\QtProject\LogClient\LogClient.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.75
